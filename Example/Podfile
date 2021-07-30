@@ -4,7 +4,7 @@ platform :ios, '9.0'
 
 target 'zjLogin_Example' do
   pod 'zjLogin', :path => '../'
-  pod 'zjNetWork', :path =>'../../zjNetWork'
+#  pod 'zjNetWork', :path =>'../../zjNetWork'
 
   target 'zjLogin_Tests' do
     inherit! :search_paths
