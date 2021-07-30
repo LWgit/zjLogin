@@ -1,0 +1,6 @@
+framework module zjLogin {
+  umbrella header "zjLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
